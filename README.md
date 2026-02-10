@@ -1,4 +1,4 @@
-[![[Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi%2C+Myself+Suraj+Patil;Explorer+of+Open+Source+Web+Dev+and+DSA;Open+Source+Contributor;Always+Learning...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi%2C+Myself+Suraj+Patil;Explorer+of+Open+Source+Web+Dev+and+DSA;Open+Source+Contributor;Always+Learning...)](https://git.io/typing-svg)
 
 I'm an Explorer of Open Source Web Dev and DSA passionate about learning and contributing to community-driven projects. As a developer, I'm constantly improving my skills in web development and data structures & algorithms.
 
