@@ -1,11 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi%2C+Myself+Suraj+Patil;Full-Stack+Developer;Cloud+Enthusiast;Always+Learning...)](https://git.io/typing-svg)
 
-I'm a Full-Stack Developer passionate about building scalable and creative web solutions. As a student, I'm constantly improving my skills in web development, Python, and cloud technologies.
+I'm an Explorer of Open Source Web Dev and DSA passionate about learning and contributing to community-driven projects. As a developer, I'm constantly improving my skills in web development and data structures & algorithms.
 
-👨‍💻 I'm currently working on web development and cloud projects
-🤝 I'm looking to collaborate on open-source projects related to web development
-🌱 I'm currently learning advanced React, Node.js, and Google Cloud Platform
-💬 Ask me about Full-Stack development, React, JavaScript, Python, and Go
+🚀 I'm passionate about exploring open-source web development projects and DSA problem-solving🤝 I'm 
+🌐 I'm looking to contribute to open-source projects and collaborate with developers passionate about DSA
+
+🌟 I'm always learning and eager to solve complex problems through DSA and open-source contributions💬 
+💬 Ask me about web development, open-source projects, DSA, and algorithms
 📫 How to reach me: suraj999488@gmail.com
 ⚡ Fun fact: I enjoy building projects that combine creativity with performance 🚀
 
